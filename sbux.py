@@ -1,5 +1,4 @@
 # /usr/lib/python
-# Kirnath x ZeroByte.ID
 
 import requests
 import sys
